@@ -1,0 +1,113 @@
+﻿@model ProjectFinal.ViewModels.PaginationSet<ProjectFinal.Models.ServiceModel> 
+    @{
+        ViewBag.Title = "Service";
+    }
+    <div class="product-bg">
+        <div class="product-bg-white">
+            <div class="container">
+                <h1 style="text-align:center">Danh sách Chiến dịch</h1>
+                <br />
+                <div class="row">
+                 
+                        @if (Model.Count > 0)
+                        {
+                            foreach (var item in Model.Items)
+                            {
+                                <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                                    <div class="product-box">
+                                        <a href="/Home/ServiceDetail/@item.Id">
+                                            <i><img src="@item.Image" style="height: 115px; width: 205px;" /></i>
+                                        </a>
+                                        @if (item.Name.Length > 35)
+                                        {
+
+                                            <h3 style="height: 75px;"><a href="/Home/ServiceDetail/@item.Id">@item.Name.Substring(0, 35)...  </a></h3>
+
+                                        }
+                                        else
+                                        {
+                                            <h3 style="height: 75px;"> <a href="/Home/ServiceDetail/@item.Id">@item.Name</a></h3>
+                                        }
+                                        <span>@CommonUtil.RenderPrice(item.Money) đ</span><br />
+                                        <a class="btn btn-warning" href="/Payment/Index?serviceId=@item.Id">Quyên góp</a>
+                                    </div>
+                                </div>
+                            }
+                        }
+                   
+                  
+                <div class="col-md-12">
+                    @if (Model.TotalPages > 1)
+                    {
+                        // Create numeric links
+                        var startPageIndex = Math.Max(1, Model.Page - Model.MaxPage / 2);
+                        var endPageIndex = Math.Min(Model.TotalPages, Model.Page + Model.MaxPage / 2);
+
+                        <nav>
+                            <ul class="pagination">
+                                @if (Model.Page > 1)
+                                {
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page=1" aria-label="First">
+                                            <i class="fa fa-angle-double-left"></i>
+                                        </a>
+                                    </li>
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page=@(Model.Page-1)" aria-label="Previous">
+                                            <i class="fa fa-angle-double-left"></i>
+                                        </a>
+                                    </li>
+                                }
+                                @for (int i = startPageIndex; i <= endPageIndex; i++)
+                                {
+                                    if (Model.Page == i)
+                                    {
+                                        <li class="active page-item"><a class="page-link" href="?page=@i" title="Trang @i">@i</a></li>
+                                    }
+                                    else
+                                    {
+                                        <li class="page-item"><a class="page-link" href="?page=@i" title="Trang @i">@i</a></li>
+                                    }
+                                }
+                                @if (Model.Page < Model.TotalPages)
+                                {
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page=@(Model.Page+1)" aria-label="Next">
+                                            <i class="fa fa-angle-double-right"></i>
+                                        </a>
+                                    </li>
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page=@Model.TotalPages" aria-label="Last">
+                                            <i class="fa fa-angle-double-right"></i>
+                                        </a>
+                                    </li>
+                                }
+                            </ul>
+                        </nav>
+                    }
+                </div>
+
+                   
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="yellow_bg">
+                <div class="row">
+                    <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+                        <div class="yellow-box">
+                            <h3>Liên hệ với chúng tôi<i><img src="/Assets/icon/calll.png" /></i></h3>
+
+                            <p>Hotline hỗ trợ trực tuyến 24/7: 0987.654.321.</p>
+                        </div>
+                    </div>
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+                        <div class="yellow-box">
+                            <a href="#">Gọi ngay</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

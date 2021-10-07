@@ -1,0 +1,90 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    var lstOrders = (List<ProjectFinal.ViewModels.OrderViewModel>)ViewBag.ListOrder;
+}
+
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+        <h1>
+            Chiến dịch
+        </h1>
+        <ol class="breadcrumb">
+            <li><a href="Admin/Home/Index"><i class="fa fa-dashboard"></i> Trang chủ</a></li>
+            <li><a href="Admin/Product/Index">Giao dịch</a></li>
+            <li class="active">Danh sách giao dịch</li>
+        </ol>
+    </section>
+    <!-- Main content -->
+    <section class="content">
+        <div class="row">
+            <div class="col-xs-12">
+
+                <div class="box">
+                    <!-- /.box-header -->
+                    <div class="box-body">
+                        <table id="example1" class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>STT</th>
+                                    <th>Tên người ủng hộ</th>
+                                    <th>Tên chiến dịch</th>
+                                    <th>Số tiền</th>
+                                    <th>Số điện thoại</th>
+                                    <th>Địa chỉ</th>
+                                    <th>Email</th>
+                                    <th>Ngày tạo</th>
+                                    <th>Phương thức</th>
+                                    <th>#</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @{
+                                    var stt = 0;
+                                    foreach (var item in lstOrders)
+                                    {
+                                                                <tr>
+                                                                    <td>@Html.Raw(stt = stt + 1)</td>
+                                                                    <td>@item.Name</td>
+                                                                    <td>@item.ServiceName</td>
+                                                                    <td>@CommonUtil.RenderPrice(item.TotalMoney) đ</td>
+                                                                    <td>@item.Phone</td>
+                                                                    <td>@item.Address</td>
+                                                                    <td>@item.Email</td>
+                                                                    <td>@item.CreateDate</td>
+                                                                    @if (item.PaymentTypeId == 1)
+                                                                    {
+                                                                        <td>Thẻ ATM nội địa</td>
+                                                                    }
+                                                                    else if (item.PaymentTypeId == 2)
+                                                                    {
+                                                                        <td>Thẻ tín dụng</td>
+                                                                    }
+                                                                    else
+                                                                    {
+                                                                        <td>Ví điện tử</td>
+                                                                    }
+                                                                    <td><a href="/Admin/Order/Detail?orderId=@item.OrderId" class="btn btn warning glyphicon glyphicon-eye-open"></a></td>
+                                                                </tr>
+                                    }
+                                }
+
+                            </tbody>
+
+                        </table>
+                    </div>
+                    <!-- /.box-body -->
+                </div>
+                <!-- /.box -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </section>
+    <!-- /.content -->
+</div>
+
+

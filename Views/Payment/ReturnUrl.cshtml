@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "ReturnUrl";
+}
+
+@if (ViewBag.Message == "00")
+{
+    <div style="margin: auto; text-align: center; margin-bottom: 50px">
+        <h2>Thanh toán thành công!</h2>
+        <h3>Cảm ơn sự quyên góp của quý vị! Bấm <a href="/" style="color:#ffd800">vào đây</a> để quay lại!</h3>
+
+        <div class="container">
+            <h3>Nhập thông tin xuất hóa đơn điện tử</h3>
+            <form id="form1" action="/Payment/VAT" method="post">
+                <input type="text" hidden="hidden" name="ServiceId" id="ServiceId" value="@ViewBag.ServiceId" />
+                <input type="hidden" name="OrderCode" value="@ViewBag.OrderId" />
+                <div class="row">
+                    <div class="col-md-6">
+                        <label style="font-weight: bold">Tên đơn vị (tên cá nhân)*:</label>
+                        <input type="text" name="CompanyName" id="CompanyName" class="form-control" />
+                    </div>
+
+                    <div class="col-md-6">
+                        <label style="font-weight: bold">Đia chỉ *:</label>
+                        <input type="text" name="CompanyAddress" id="CompanyAddress" class="form-control" />
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label style="font-weight: bold">Mã số thuế DN (MST cá nhân):</label>
+                        <input type="text" name="TaxCode" id="TaxCode" class="form-control" />
+                    </div>
+
+                    <div class="col-md-6">
+                        <label style="font-weight: bold">Email:</label>
+                        <input type="text" name="Email" id="Email" class="form-control" />
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-warning form-control" id="btnPayPopup" style="font-weight: bold; color: white">THANH TOÁN</button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div style="margin: auto; text-align: center;margin-bottom: 50px">
+        <h2>Thanh toán thất bại!</h2>
+        <h3>Xin vui lòng kiểm tra lại! Bấm <a href="/" style="color:#ffd800">vào đây</a> để quay lại!</h3>
+    </div>
+}

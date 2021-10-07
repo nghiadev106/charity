@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ProjectFinal.Models.NewCategoryModel>
+
+
+<header id="header" class="container">
+    <div class="row">
+        <a href="/" id="logo" class="fl-left">
+            <img src="~/Assets/images/logo.PNG" alt="logo">
+        </a>
+        <ul id="main-menu">
+            <li><a href="/">trang chủ</a></li>
+            <li><a href="/Home/About">Giới thiệu</a></li>
+            <li><a href="/Home/Service">Chiến dịch</a></li>
+            <li>
+                <a href="/News/Index">Tin tức</a>
+                <ul class="sub-menu">
+                    @foreach (var category in Model)
+                    {
+                        <li>
+                            <a href="/News/NewByCategoryId?id=@category.Id">@category.Name</a>
+                        </li>
+                    }
+                </ul>
+            </li>
+
+            <li> <a href="/Home/Video">Video</a> </li>
+            <li> <a href="/Home/Contact">Liên hệ</a> </li>
+        </ul>
+        <div id="search-box">
+            <div class="search">
+                @if(ViewBag.SearchNews == "NewsSearch")
+                {
+                    <form method="get" action="/News/SearchNews">
+                        <input class="search-txt" type="text" id="txtKeyword" name="keyword" placeholder="Từ khóa">
+                        <button id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                    @ViewBag.SearchNews
+                }
+                else if(ViewBag.SearchVideo == true)
+                {
+                    <form method="get" action="/Home/SearchVideo">
+                        <input class="search-txt" type="text" id="txtKeyword" name="keyword" placeholder="Từ khóa">
+                        <button id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                }
+                else
+                {
+                    <form method="get" action="/Home/Search">
+                        <input class="search-txt" type="text" id="txtKeyword" name="keyword" placeholder="@ViewBag.SearchNews">
+                        <button id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                }
+
+
+            </div>
+        </div>  
+    </div>
+</header>

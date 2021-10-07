@@ -1,0 +1,220 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>QUỸ TỪ THIỆN VIỆT NAM</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="/Assets/css/bootstrap.min.css">
+    <!-- style css -->
+    <link href="~/Assets/css/style.css" rel="stylesheet" />
+    <!-- Responsive-->
+    <link rel="stylesheet" href="/Assets/css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="~/Assets/images/logo.PNG" type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="/Assets/css/jquery.mCustomScrollbar.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3//Assets/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+</head>
+<!-- body -->
+<body class="main-layout">
+    <!-- loader  -->
+    <div class="loader_bg">
+        <div class="loader"><img src="/Assets/images/loading.gif" alt="#" /></div>
+    </div>
+    <!-- end loader -->
+    <!-- header -->
+    <header>
+        <!-- header inner -->
+        <div class="header">
+            <div class="head_top">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                            <div class="top-box">
+                                <ul class="sociel_link">
+                                    <li> <a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                                    <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li> <a href="#"><i class="fa fa-instagram"></i></a></li>
+                                    <li> <a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                            <div class="top-box">
+                                <p>Hành động nhỏ - mang ý nghĩa lớn</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <header id="header" class="container">
+                <div class="row">
+                    <a href="/" id="logo" class="fl-left">
+                        <img src="~/Assets/images/logo.PNG" alt="logo">
+                    </a>
+                    <ul id="main-menu">
+                        <li><a href="/">trang chủ</a></li>
+                        <li><a href="/Home/About">Giới thiệu</a></li>
+                        <li><a href="/Home/Service">Chiến dịch</a></li>
+                        <li>
+                            <a href="/News/Index">Tin tức</a>
+                            <ul class="sub-menu">
+                                @foreach (var category in ViewBag.ListCategory)
+                                {
+                                    <li>
+                                        <a href="/News/NewByCategoryId?id=@category.Id">@category.Name</a>
+                                    </li>
+                                }
+                            </ul>
+                        </li>
+
+                        <li> <a href="/Home/Video">Video</a> </li>
+                        <li> <a href="/Home/Contact">Liên hệ</a> </li>
+                    </ul>
+                    <div id="search-box">
+                        <div class="search">
+                            @if (ViewBag.SearchNews == "NewsSearch")
+                            {
+                                <form method="get" action="/News/SearchNews">
+                                    <input class="search-txt" type="text" id="txtKeyword" name="keyword" placeholder="Từ khóa">
+                                    <button id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                                </form>
+                            }
+                            else if (ViewBag.SearchVideo == "VideoSearch")
+                            {
+                                <form method="get" action="/Home/SearchVideo">
+                                    <input class="search-txt" type="text" id="txtKeyword" name="keyword" placeholder="Từ khóa">
+                                    <button id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                                </form>
+                            }
+                            else
+                            {
+                                <form method="get" action="/Home/Search">
+                                    <input class="search-txt" type="text" id="txtKeyword" name="keyword" placeholder="Từ khóa">
+                                    <button id="btnSearch" class="search-btn" type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                                </form>
+                            }
+
+
+                        </div>
+                    </div>
+                    <div style="margin-top: 37px; margin-left: 9px; "><a href="/Admin/Login/Index" class="btn btn-warning">Login</a></div>
+                </div>
+            </header>
+
+</header>
+
+
+    @RenderBody()
+
+    <!--  footer -->
+    <footr>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 offset-md-3">
+                        <ul class="sociel">
+                            <li> <a href="#"><i class="fa fa-facebook-f"></i></a></li>
+                            <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li> <a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li> <a href="#"><i class="fa fa-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="contact">
+                            <h3>Địa chỉ</h3>
+                            <span>
+                                Nhân Hòa Mỹ Hào Hưng Yên<br>
+                                +987 654 3210
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="contact">
+                            <h3>Thông tin</h3>
+                            <ul class="lik">
+                                <li> <a href="#">Giới thiệu</a></li>
+                                <li> <a href="#">Chiến dịch</a></li>
+                                <li> <a href="#">Video</a></li>
+                                <li> <a href="#">Tin tức</a></li>
+                                <li> <a href="#">Liên hệ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="contact">
+                            <h3>Chiến dịch</h3>
+                            <ul class="lik">
+                                <li> <a href="#">Giới thiệu</a></li>
+                                <li> <a href="#">Chiến dịch</a></li>
+                                <li> <a href="#">Video</a></li>
+                                <li> <a href="#">Tin tức</a></li>
+                                <li> <a href="#">Liên hệ</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                        <div class="contact">
+                            <h3>Liên hệ</h3>
+                            <span>Liên hệ với chúng tôi để biết thêm thông tin chi tiết</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="copyright">
+                <p>Copyright ©2017 QUỸ TỪ THIỆN VIỆT NAM. All rights reserved. Serviced by tuthien.vn</a></p>
+            </div>
+
+        </div>
+    </footr>
+    <!-- end footer -->
+    <!-- Javascript files-->
+    <script src="/Assets/js/jquery.min.js"></script>
+    <script src="/Assets/js/popper.min.js"></script>
+    <script src="/Assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/Assets/js/jquery-3.0.0.min.js"></script>
+    <script src="/Assets/js/plugin.js"></script>
+    <!-- sidebar -->
+    <script src="/Assets/js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="/Assets/js/custom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/js/all.min.js" integrity="sha512-RXf+QSDCUQs5uwRKaDoXt55jygZZm2V++WUZduaU/Ui/9EGp3f/2KZVahFZBKGH0s774sd3HmrhUy+SgOFQLVQ==" crossorigin="anonymous"></script>
+    <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".fancybox").fancybox({
+                openEffect: "none",
+                closeEffect: "none"
+            });
+
+            $(".zoom").hover(function () {
+
+                $(this).addClass('transition');
+            }, function () {
+
+                $(this).removeClass('transition');
+            });
+        });
+
+    </script>
+</body>
+</html>

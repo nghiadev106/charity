@@ -1,0 +1,783 @@
+D:\Project\ProjectFinal\bin\ProjectFinal.dll.config
+D:\Project\ProjectFinal\bin\ProjectFinal.dll
+D:\Project\ProjectFinal\bin\ProjectFinal.pdb
+D:\Project\ProjectFinal\bin\roslyn\csc.exe
+D:\Project\ProjectFinal\bin\roslyn\csc.exe.config
+D:\Project\ProjectFinal\bin\roslyn\csc.rsp
+D:\Project\ProjectFinal\bin\roslyn\csi.exe
+D:\Project\ProjectFinal\bin\roslyn\csi.exe.config
+D:\Project\ProjectFinal\bin\roslyn\csi.rsp
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project\ProjectFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Project\ProjectFinal\bin\roslyn\System.AppContext.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Collections.Immutable.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Console.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Globalization.Calendars.dll
+D:\Project\ProjectFinal\bin\roslyn\System.IO.Compression.dll
+D:\Project\ProjectFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Project\ProjectFinal\bin\roslyn\System.IO.FileSystem.dll
+D:\Project\ProjectFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Net.Http.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Net.Sockets.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project\ProjectFinal\bin\roslyn\System.ValueTuple.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Xml.XPath.dll
+D:\Project\ProjectFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Project\ProjectFinal\bin\roslyn\vbc.exe
+D:\Project\ProjectFinal\bin\roslyn\vbc.exe.config
+D:\Project\ProjectFinal\bin\roslyn\vbc.rsp
+D:\Project\ProjectFinal\bin\roslyn\VBCSCompiler.exe
+D:\Project\ProjectFinal\bin\roslyn\VBCSCompiler.exe.config
+D:\Project\ProjectFinal\bin\Antlr3.Runtime.dll
+D:\Project\ProjectFinal\bin\EntityFramework.dll
+D:\Project\ProjectFinal\bin\EntityFramework.SqlServer.dll
+D:\Project\ProjectFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project\ProjectFinal\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\ProjectFinal\bin\Newtonsoft.Json.dll
+D:\Project\ProjectFinal\bin\System.Web.Helpers.dll
+D:\Project\ProjectFinal\bin\System.Web.Mvc.dll
+D:\Project\ProjectFinal\bin\System.Web.Optimization.dll
+D:\Project\ProjectFinal\bin\System.Web.Razor.dll
+D:\Project\ProjectFinal\bin\System.Web.WebPages.Deployment.dll
+D:\Project\ProjectFinal\bin\System.Web.WebPages.dll
+D:\Project\ProjectFinal\bin\System.Web.WebPages.Razor.dll
+D:\Project\ProjectFinal\bin\WebGrease.dll
+D:\Project\ProjectFinal\bin\EntityFramework.xml
+D:\Project\ProjectFinal\bin\EntityFramework.SqlServer.xml
+D:\Project\ProjectFinal\bin\System.Web.Helpers.xml
+D:\Project\ProjectFinal\bin\System.Web.Mvc.xml
+D:\Project\ProjectFinal\bin\System.Web.Optimization.xml
+D:\Project\ProjectFinal\bin\System.Web.Razor.xml
+D:\Project\ProjectFinal\bin\System.Web.WebPages.xml
+D:\Project\ProjectFinal\bin\System.Web.WebPages.Deployment.xml
+D:\Project\ProjectFinal\bin\System.Web.WebPages.Razor.xml
+D:\Project\ProjectFinal\bin\Newtonsoft.Json.xml
+D:\Project\ProjectFinal\bin\Antlr3.Runtime.pdb
+D:\Project\ProjectFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project\ProjectFinal\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+D:\Project\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+D:\Project\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+D:\Project\ProjectFinal\obj\Debug\ProjectFinal.dll
+D:\Project\ProjectFinal\obj\Debug\ProjectFinal.pdb
+E:\Tung\Project\ProjectFinal\bin\ProjectFinal.dll.config
+E:\Tung\Project\ProjectFinal\bin\ProjectFinal.dll
+E:\Tung\Project\ProjectFinal\bin\ProjectFinal.pdb
+E:\Tung\Project\ProjectFinal\bin\roslyn\csc.exe
+E:\Tung\Project\ProjectFinal\bin\roslyn\csc.exe.config
+E:\Tung\Project\ProjectFinal\bin\roslyn\csc.rsp
+E:\Tung\Project\ProjectFinal\bin\roslyn\csi.exe
+E:\Tung\Project\ProjectFinal\bin\roslyn\csi.exe.config
+E:\Tung\Project\ProjectFinal\bin\roslyn\csi.rsp
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tung\Project\ProjectFinal\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.AppContext.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Collections.Immutable.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Console.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.IO.Compression.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.IO.FileSystem.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Net.Http.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Net.Sockets.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.ValueTuple.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Xml.XPath.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tung\Project\ProjectFinal\bin\roslyn\vbc.exe
+E:\Tung\Project\ProjectFinal\bin\roslyn\vbc.exe.config
+E:\Tung\Project\ProjectFinal\bin\roslyn\vbc.rsp
+E:\Tung\Project\ProjectFinal\bin\roslyn\VBCSCompiler.exe
+E:\Tung\Project\ProjectFinal\bin\roslyn\VBCSCompiler.exe.config
+E:\Tung\Project\ProjectFinal\bin\Antlr3.Runtime.dll
+E:\Tung\Project\ProjectFinal\bin\EntityFramework.dll
+E:\Tung\Project\ProjectFinal\bin\EntityFramework.SqlServer.dll
+E:\Tung\Project\ProjectFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tung\Project\ProjectFinal\bin\Microsoft.Web.Infrastructure.dll
+E:\Tung\Project\ProjectFinal\bin\Newtonsoft.Json.dll
+E:\Tung\Project\ProjectFinal\bin\System.Web.Helpers.dll
+E:\Tung\Project\ProjectFinal\bin\System.Web.Mvc.dll
+E:\Tung\Project\ProjectFinal\bin\System.Web.Optimization.dll
+E:\Tung\Project\ProjectFinal\bin\System.Web.Razor.dll
+E:\Tung\Project\ProjectFinal\bin\System.Web.WebPages.Deployment.dll
+E:\Tung\Project\ProjectFinal\bin\System.Web.WebPages.dll
+E:\Tung\Project\ProjectFinal\bin\System.Web.WebPages.Razor.dll
+E:\Tung\Project\ProjectFinal\bin\WebGrease.dll
+E:\Tung\Project\ProjectFinal\bin\EntityFramework.xml
+E:\Tung\Project\ProjectFinal\bin\EntityFramework.SqlServer.xml
+E:\Tung\Project\ProjectFinal\bin\System.Web.Helpers.xml
+E:\Tung\Project\ProjectFinal\bin\System.Web.Mvc.xml
+E:\Tung\Project\ProjectFinal\bin\System.Web.Optimization.xml
+E:\Tung\Project\ProjectFinal\bin\System.Web.Razor.xml
+E:\Tung\Project\ProjectFinal\bin\System.Web.WebPages.xml
+E:\Tung\Project\ProjectFinal\bin\System.Web.WebPages.Deployment.xml
+E:\Tung\Project\ProjectFinal\bin\System.Web.WebPages.Razor.xml
+E:\Tung\Project\ProjectFinal\bin\Newtonsoft.Json.xml
+E:\Tung\Project\ProjectFinal\bin\Antlr3.Runtime.pdb
+E:\Tung\Project\ProjectFinal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tung\Project\ProjectFinal\obj\Debug\ProjectFinal.dll
+E:\Tung\Project\ProjectFinal\obj\Debug\ProjectFinal.pdb
+E:\Tung\Project\ProjectFinal\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+E:\Tung\Project\ProjectFinal\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+E:\Tung\Project\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+E:\Tung\Project\ProjectFinal\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tung\Project\ProjectFinal\bin\Unity.Abstractions.dll
+E:\Tung\Project\ProjectFinal\bin\Unity.Container.dll
+E:\Tung\Project\ProjectFinal\bin\Unity.Mvc5.dll
+E:\Tung\Project\ProjectFinal\bin\System.Threading.Tasks.Extensions.dll
+E:\Tung\Project\ProjectFinal\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tung\Project\ProjectFinal\bin\Unity.Abstractions.pdb
+E:\Tung\Project\ProjectFinal\bin\Unity.Container.pdb
+E:\Tung\Project\project_tt\bin\ProjectFinal.dll.config
+E:\Tung\Project\project_tt\bin\ProjectFinal.dll
+E:\Tung\Project\project_tt\bin\ProjectFinal.pdb
+E:\Tung\Project\project_tt\bin\roslyn\csc.exe
+E:\Tung\Project\project_tt\bin\roslyn\csc.exe.config
+E:\Tung\Project\project_tt\bin\roslyn\csc.rsp
+E:\Tung\Project\project_tt\bin\roslyn\csi.exe
+E:\Tung\Project\project_tt\bin\roslyn\csi.exe.config
+E:\Tung\Project\project_tt\bin\roslyn\csi.rsp
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tung\Project\project_tt\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.AppContext.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Collections.Immutable.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Console.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.IO.Compression.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.IO.FileSystem.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Net.Http.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Net.Sockets.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.ValueTuple.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Xml.XPath.dll
+E:\Tung\Project\project_tt\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tung\Project\project_tt\bin\roslyn\vbc.exe
+E:\Tung\Project\project_tt\bin\roslyn\vbc.exe.config
+E:\Tung\Project\project_tt\bin\roslyn\vbc.rsp
+E:\Tung\Project\project_tt\bin\roslyn\VBCSCompiler.exe
+E:\Tung\Project\project_tt\bin\roslyn\VBCSCompiler.exe.config
+E:\Tung\Project\project_tt\bin\Antlr3.Runtime.dll
+E:\Tung\Project\project_tt\bin\EntityFramework.dll
+E:\Tung\Project\project_tt\bin\EntityFramework.SqlServer.dll
+E:\Tung\Project\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tung\Project\project_tt\bin\Microsoft.Web.Infrastructure.dll
+E:\Tung\Project\project_tt\bin\Newtonsoft.Json.dll
+E:\Tung\Project\project_tt\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tung\Project\project_tt\bin\System.Web.Helpers.dll
+E:\Tung\Project\project_tt\bin\System.Web.Mvc.dll
+E:\Tung\Project\project_tt\bin\System.Web.Optimization.dll
+E:\Tung\Project\project_tt\bin\System.Web.Razor.dll
+E:\Tung\Project\project_tt\bin\System.Web.WebPages.Deployment.dll
+E:\Tung\Project\project_tt\bin\System.Web.WebPages.dll
+E:\Tung\Project\project_tt\bin\System.Web.WebPages.Razor.dll
+E:\Tung\Project\project_tt\bin\Unity.Abstractions.dll
+E:\Tung\Project\project_tt\bin\Unity.Container.dll
+E:\Tung\Project\project_tt\bin\Unity.Mvc5.dll
+E:\Tung\Project\project_tt\bin\WebGrease.dll
+E:\Tung\Project\project_tt\bin\System.Threading.Tasks.Extensions.dll
+E:\Tung\Project\project_tt\bin\EntityFramework.xml
+E:\Tung\Project\project_tt\bin\EntityFramework.SqlServer.xml
+E:\Tung\Project\project_tt\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tung\Project\project_tt\bin\System.Web.Helpers.xml
+E:\Tung\Project\project_tt\bin\System.Web.Mvc.xml
+E:\Tung\Project\project_tt\bin\System.Web.Optimization.xml
+E:\Tung\Project\project_tt\bin\System.Web.Razor.xml
+E:\Tung\Project\project_tt\bin\System.Web.WebPages.xml
+E:\Tung\Project\project_tt\bin\System.Web.WebPages.Deployment.xml
+E:\Tung\Project\project_tt\bin\System.Web.WebPages.Razor.xml
+E:\Tung\Project\project_tt\bin\Newtonsoft.Json.xml
+E:\Tung\Project\project_tt\bin\Unity.Abstractions.pdb
+E:\Tung\Project\project_tt\bin\Unity.Container.pdb
+E:\Tung\Project\project_tt\bin\Antlr3.Runtime.pdb
+E:\Tung\Project\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tung\Project\project_tt\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+E:\Tung\Project\project_tt\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+E:\Tung\Project\project_tt\obj\Debug\ProjectFinal.csproj.CopyComplete
+E:\Tung\Project\project_tt\obj\Debug\ProjectFinal.dll
+E:\Tung\Project\project_tt\obj\Debug\ProjectFinal.pdb
+D:\Tung\Project\project_tt\bin\ProjectFinal.dll.config
+D:\Tung\Project\project_tt\bin\ProjectFinal.dll
+D:\Tung\Project\project_tt\bin\ProjectFinal.pdb
+D:\Tung\Project\project_tt\bin\roslyn\csc.exe
+D:\Tung\Project\project_tt\bin\roslyn\csc.exe.config
+D:\Tung\Project\project_tt\bin\roslyn\csc.rsp
+D:\Tung\Project\project_tt\bin\roslyn\csi.exe
+D:\Tung\Project\project_tt\bin\roslyn\csi.exe.config
+D:\Tung\Project\project_tt\bin\roslyn\csi.rsp
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tung\Project\project_tt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.AppContext.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Collections.Immutable.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Console.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.IO.Compression.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.IO.FileSystem.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Net.Http.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Net.Sockets.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.ValueTuple.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Xml.XPath.dll
+D:\Tung\Project\project_tt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tung\Project\project_tt\bin\roslyn\vbc.exe
+D:\Tung\Project\project_tt\bin\roslyn\vbc.exe.config
+D:\Tung\Project\project_tt\bin\roslyn\vbc.rsp
+D:\Tung\Project\project_tt\bin\roslyn\VBCSCompiler.exe
+D:\Tung\Project\project_tt\bin\roslyn\VBCSCompiler.exe.config
+D:\Tung\Project\project_tt\bin\Antlr3.Runtime.dll
+D:\Tung\Project\project_tt\bin\EntityFramework.dll
+D:\Tung\Project\project_tt\bin\EntityFramework.SqlServer.dll
+D:\Tung\Project\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tung\Project\project_tt\bin\Microsoft.Web.Infrastructure.dll
+D:\Tung\Project\project_tt\bin\Newtonsoft.Json.dll
+D:\Tung\Project\project_tt\bin\System.Web.Helpers.dll
+D:\Tung\Project\project_tt\bin\System.Web.Mvc.dll
+D:\Tung\Project\project_tt\bin\System.Web.Optimization.dll
+D:\Tung\Project\project_tt\bin\System.Web.Razor.dll
+D:\Tung\Project\project_tt\bin\System.Web.WebPages.Deployment.dll
+D:\Tung\Project\project_tt\bin\System.Web.WebPages.dll
+D:\Tung\Project\project_tt\bin\System.Web.WebPages.Razor.dll
+D:\Tung\Project\project_tt\bin\Unity.Abstractions.dll
+D:\Tung\Project\project_tt\bin\Unity.Container.dll
+D:\Tung\Project\project_tt\bin\Unity.Mvc5.dll
+D:\Tung\Project\project_tt\bin\WebGrease.dll
+D:\Tung\Project\project_tt\bin\System.Threading.Tasks.Extensions.dll
+D:\Tung\Project\project_tt\bin\EntityFramework.xml
+D:\Tung\Project\project_tt\bin\EntityFramework.SqlServer.xml
+D:\Tung\Project\project_tt\bin\System.Web.Helpers.xml
+D:\Tung\Project\project_tt\bin\System.Web.Mvc.xml
+D:\Tung\Project\project_tt\bin\System.Web.Optimization.xml
+D:\Tung\Project\project_tt\bin\System.Web.Razor.xml
+D:\Tung\Project\project_tt\bin\System.Web.WebPages.xml
+D:\Tung\Project\project_tt\bin\System.Web.WebPages.Deployment.xml
+D:\Tung\Project\project_tt\bin\System.Web.WebPages.Razor.xml
+D:\Tung\Project\project_tt\bin\Newtonsoft.Json.xml
+D:\Tung\Project\project_tt\bin\Unity.Abstractions.pdb
+D:\Tung\Project\project_tt\bin\Unity.Container.pdb
+D:\Tung\Project\project_tt\bin\Antlr3.Runtime.pdb
+D:\Tung\Project\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tung\Project\project_tt\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+D:\Tung\Project\project_tt\obj\Debug\ProjectFinal.csproj.CopyComplete
+D:\Tung\Project\project_tt\obj\Debug\ProjectFinal.dll
+D:\Tung\Project\project_tt\obj\Debug\ProjectFinal.pdb
+D:\Tung\Project\project_tt\bin\CKFinder.dll
+D:\Tung\Project\project_tt\bin\CKFinder_FileEditor.dll
+D:\Tung\Project\project_tt\bin\CKFinder_ImageResize.dll
+D:\Tung\Project\project_tt\bin\CKFinder_Watermark.dll
+D:\Tung\Project\project_tt\bin\CKFinder.pdb
+D:\Tung\Project\project_tt\bin\CKFinder_FileEditor.pdb
+D:\Tung\Project\project_tt\bin\CKFinder_ImageResize.pdb
+D:\Tung\Project\project_tt\bin\CKFinder_Watermark.pdb
+D:\Tung\Project\project_tt\bin\AutoMapper.dll
+D:\Tung\Project\project_tt\bin\AutoMapper.pdb
+D:\Tung\Project\project_tt\bin\AutoMapper.xml
+D:\Tung\Project\project_tt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Tung\Project\project_tt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Tung\Project\project_tt\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+E:\Tùng\Source code DATN\project_tt\bin\ProjectFinal.dll.config
+E:\Tùng\Source code DATN\project_tt\bin\ProjectFinal.dll
+E:\Tùng\Source code DATN\project_tt\bin\ProjectFinal.pdb
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\csc.exe
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\csc.exe.config
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\csc.rsp
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\csi.exe
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\csi.exe.config
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\csi.rsp
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.AppContext.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Collections.Immutable.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Console.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Globalization.Calendars.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.IO.Compression.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.IO.FileSystem.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Net.Http.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Net.Sockets.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Reflection.Metadata.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.ValueTuple.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Xml.XPath.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\vbc.exe
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\vbc.exe.config
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\vbc.rsp
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\VBCSCompiler.exe
+E:\Tùng\Source code DATN\project_tt\bin\roslyn\VBCSCompiler.exe.config
+E:\Tùng\Source code DATN\project_tt\bin\Antlr3.Runtime.dll
+E:\Tùng\Source code DATN\project_tt\bin\AutoMapper.dll
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder.dll
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder_FileEditor.dll
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder_ImageResize.dll
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder_Watermark.dll
+E:\Tùng\Source code DATN\project_tt\bin\EntityFramework.dll
+E:\Tùng\Source code DATN\project_tt\bin\EntityFramework.SqlServer.dll
+E:\Tùng\Source code DATN\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Tùng\Source code DATN\project_tt\bin\Microsoft.Web.Infrastructure.dll
+E:\Tùng\Source code DATN\project_tt\bin\Newtonsoft.Json.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Helpers.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Mvc.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Optimization.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Razor.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.WebPages.Deployment.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.WebPages.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.WebPages.Razor.dll
+E:\Tùng\Source code DATN\project_tt\bin\Unity.Abstractions.dll
+E:\Tùng\Source code DATN\project_tt\bin\Unity.Container.dll
+E:\Tùng\Source code DATN\project_tt\bin\Unity.Mvc5.dll
+E:\Tùng\Source code DATN\project_tt\bin\WebGrease.dll
+E:\Tùng\Source code DATN\project_tt\bin\System.Threading.Tasks.Extensions.dll
+E:\Tùng\Source code DATN\project_tt\bin\AutoMapper.pdb
+E:\Tùng\Source code DATN\project_tt\bin\AutoMapper.xml
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder.pdb
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder_FileEditor.pdb
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder_ImageResize.pdb
+E:\Tùng\Source code DATN\project_tt\bin\CKFinder_Watermark.pdb
+E:\Tùng\Source code DATN\project_tt\bin\EntityFramework.xml
+E:\Tùng\Source code DATN\project_tt\bin\EntityFramework.SqlServer.xml
+E:\Tùng\Source code DATN\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Helpers.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Mvc.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Optimization.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.Razor.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.WebPages.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.WebPages.Deployment.xml
+E:\Tùng\Source code DATN\project_tt\bin\System.Web.WebPages.Razor.xml
+E:\Tùng\Source code DATN\project_tt\bin\Newtonsoft.Json.xml
+E:\Tùng\Source code DATN\project_tt\bin\Unity.Abstractions.pdb
+E:\Tùng\Source code DATN\project_tt\bin\Unity.Container.pdb
+E:\Tùng\Source code DATN\project_tt\bin\Antlr3.Runtime.pdb
+E:\Tùng\Source code DATN\project_tt\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+E:\Tùng\Source code DATN\project_tt\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+E:\Tùng\Source code DATN\project_tt\obj\Debug\ProjectFinal.csproj.CopyComplete
+E:\Tùng\Source code DATN\project_tt\obj\Debug\ProjectFinal.dll
+E:\Tùng\Source code DATN\project_tt\obj\Debug\ProjectFinal.pdb
+D:\CTTT\project_tt\bin\ProjectFinal.dll.config
+D:\CTTT\project_tt\bin\ProjectFinal.dll
+D:\CTTT\project_tt\bin\ProjectFinal.pdb
+D:\CTTT\project_tt\bin\roslyn\csc.exe
+D:\CTTT\project_tt\bin\roslyn\csc.exe.config
+D:\CTTT\project_tt\bin\roslyn\csc.rsp
+D:\CTTT\project_tt\bin\roslyn\csi.exe
+D:\CTTT\project_tt\bin\roslyn\csi.exe.config
+D:\CTTT\project_tt\bin\roslyn\csi.rsp
+D:\CTTT\project_tt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CTTT\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CTTT\project_tt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CTTT\project_tt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CTTT\project_tt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CTTT\project_tt\bin\roslyn\System.AppContext.dll
+D:\CTTT\project_tt\bin\roslyn\System.Collections.Immutable.dll
+D:\CTTT\project_tt\bin\roslyn\System.Console.dll
+D:\CTTT\project_tt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CTTT\project_tt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CTTT\project_tt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CTTT\project_tt\bin\roslyn\System.Globalization.Calendars.dll
+D:\CTTT\project_tt\bin\roslyn\System.IO.Compression.dll
+D:\CTTT\project_tt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CTTT\project_tt\bin\roslyn\System.IO.FileSystem.dll
+D:\CTTT\project_tt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CTTT\project_tt\bin\roslyn\System.Net.Http.dll
+D:\CTTT\project_tt\bin\roslyn\System.Net.Sockets.dll
+D:\CTTT\project_tt\bin\roslyn\System.Reflection.Metadata.dll
+D:\CTTT\project_tt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CTTT\project_tt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CTTT\project_tt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CTTT\project_tt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CTTT\project_tt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CTTT\project_tt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CTTT\project_tt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CTTT\project_tt\bin\roslyn\System.ValueTuple.dll
+D:\CTTT\project_tt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CTTT\project_tt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CTTT\project_tt\bin\roslyn\System.Xml.XPath.dll
+D:\CTTT\project_tt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CTTT\project_tt\bin\roslyn\vbc.exe
+D:\CTTT\project_tt\bin\roslyn\vbc.exe.config
+D:\CTTT\project_tt\bin\roslyn\vbc.rsp
+D:\CTTT\project_tt\bin\roslyn\VBCSCompiler.exe
+D:\CTTT\project_tt\bin\roslyn\VBCSCompiler.exe.config
+D:\CTTT\project_tt\bin\Antlr3.Runtime.dll
+D:\CTTT\project_tt\bin\AutoMapper.dll
+D:\CTTT\project_tt\bin\CKFinder.dll
+D:\CTTT\project_tt\bin\CKFinder_FileEditor.dll
+D:\CTTT\project_tt\bin\CKFinder_ImageResize.dll
+D:\CTTT\project_tt\bin\CKFinder_Watermark.dll
+D:\CTTT\project_tt\bin\EntityFramework.dll
+D:\CTTT\project_tt\bin\EntityFramework.SqlServer.dll
+D:\CTTT\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CTTT\project_tt\bin\Microsoft.Web.Infrastructure.dll
+D:\CTTT\project_tt\bin\Newtonsoft.Json.dll
+D:\CTTT\project_tt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\CTTT\project_tt\bin\System.Web.Helpers.dll
+D:\CTTT\project_tt\bin\System.Web.Mvc.dll
+D:\CTTT\project_tt\bin\System.Web.Optimization.dll
+D:\CTTT\project_tt\bin\System.Web.Razor.dll
+D:\CTTT\project_tt\bin\System.Web.WebPages.Deployment.dll
+D:\CTTT\project_tt\bin\System.Web.WebPages.dll
+D:\CTTT\project_tt\bin\System.Web.WebPages.Razor.dll
+D:\CTTT\project_tt\bin\Unity.Abstractions.dll
+D:\CTTT\project_tt\bin\Unity.Container.dll
+D:\CTTT\project_tt\bin\Unity.Mvc5.dll
+D:\CTTT\project_tt\bin\WebGrease.dll
+D:\CTTT\project_tt\bin\System.Threading.Tasks.Extensions.dll
+D:\CTTT\project_tt\bin\AutoMapper.pdb
+D:\CTTT\project_tt\bin\AutoMapper.xml
+D:\CTTT\project_tt\bin\CKFinder.pdb
+D:\CTTT\project_tt\bin\CKFinder_FileEditor.pdb
+D:\CTTT\project_tt\bin\CKFinder_ImageResize.pdb
+D:\CTTT\project_tt\bin\CKFinder_Watermark.pdb
+D:\CTTT\project_tt\bin\EntityFramework.xml
+D:\CTTT\project_tt\bin\EntityFramework.SqlServer.xml
+D:\CTTT\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CTTT\project_tt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\CTTT\project_tt\bin\System.Web.Helpers.xml
+D:\CTTT\project_tt\bin\System.Web.Mvc.xml
+D:\CTTT\project_tt\bin\System.Web.Optimization.xml
+D:\CTTT\project_tt\bin\System.Web.Razor.xml
+D:\CTTT\project_tt\bin\System.Web.WebPages.xml
+D:\CTTT\project_tt\bin\System.Web.WebPages.Deployment.xml
+D:\CTTT\project_tt\bin\System.Web.WebPages.Razor.xml
+D:\CTTT\project_tt\bin\Newtonsoft.Json.xml
+D:\CTTT\project_tt\bin\Unity.Abstractions.pdb
+D:\CTTT\project_tt\bin\Unity.Container.pdb
+D:\CTTT\project_tt\bin\Antlr3.Runtime.pdb
+D:\CTTT\project_tt\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+D:\CTTT\project_tt\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+D:\CTTT\project_tt\obj\Debug\ProjectFinal.csproj.CopyComplete
+D:\CTTT\project_tt\obj\Debug\ProjectFinal.dll
+D:\CTTT\project_tt\obj\Debug\ProjectFinal.pdb
+C:\Users\Admin\Downloads\project_tt\bin\ProjectFinal.dll.config
+C:\Users\Admin\Downloads\project_tt\bin\ProjectFinal.dll
+C:\Users\Admin\Downloads\project_tt\bin\ProjectFinal.pdb
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\project_tt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\project_tt\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\project_tt\bin\AutoMapper.dll
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder.dll
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder_FileEditor.dll
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder_ImageResize.dll
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder_Watermark.dll
+C:\Users\Admin\Downloads\project_tt\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\project_tt\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\project_tt\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\project_tt\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\project_tt\bin\Unity.Abstractions.dll
+C:\Users\Admin\Downloads\project_tt\bin\Unity.Container.dll
+C:\Users\Admin\Downloads\project_tt\bin\Unity.Mvc5.dll
+C:\Users\Admin\Downloads\project_tt\bin\WebGrease.dll
+C:\Users\Admin\Downloads\project_tt\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\project_tt\bin\AutoMapper.pdb
+C:\Users\Admin\Downloads\project_tt\bin\AutoMapper.xml
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder.pdb
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder_FileEditor.pdb
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder_ImageResize.pdb
+C:\Users\Admin\Downloads\project_tt\bin\CKFinder_Watermark.pdb
+C:\Users\Admin\Downloads\project_tt\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\project_tt\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\project_tt\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\project_tt\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\project_tt\bin\Unity.Abstractions.pdb
+C:\Users\Admin\Downloads\project_tt\bin\Unity.Container.pdb
+C:\Users\Admin\Downloads\project_tt\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\project_tt\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\project_tt\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\project_tt\obj\Debug\ProjectFinal.csproj.CopyComplete
+C:\Users\Admin\Downloads\project_tt\obj\Debug\ProjectFinal.dll
+C:\Users\Admin\Downloads\project_tt\obj\Debug\ProjectFinal.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\ProjectFinal.dll.config
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\ProjectFinal.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\ProjectFinal.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\csc.exe
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\csc.exe.config
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\csc.rsp
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\csi.exe
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\csi.exe.config
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\csi.rsp
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.AppContext.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Collections.Immutable.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Console.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Globalization.Calendars.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.IO.Compression.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.IO.FileSystem.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Net.Http.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Net.Sockets.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Reflection.Metadata.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.ValueTuple.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Xml.XPath.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\vbc.exe
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\vbc.exe.config
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\vbc.rsp
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\VBCSCompiler.exe
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\roslyn\VBCSCompiler.exe.config
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Antlr3.Runtime.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\AutoMapper.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder_FileEditor.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder_ImageResize.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder_Watermark.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\EntityFramework.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\EntityFramework.SqlServer.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Microsoft.Web.Infrastructure.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Newtonsoft.Json.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Helpers.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Mvc.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Optimization.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Razor.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.WebPages.Deployment.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.WebPages.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.WebPages.Razor.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Unity.Abstractions.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Unity.Container.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Unity.Mvc5.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\WebGrease.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Threading.Tasks.Extensions.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\AutoMapper.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\AutoMapper.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder_FileEditor.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder_ImageResize.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\CKFinder_Watermark.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\EntityFramework.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\EntityFramework.SqlServer.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Helpers.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Mvc.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Optimization.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.Razor.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.WebPages.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.WebPages.Deployment.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\System.Web.WebPages.Razor.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Newtonsoft.Json.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Unity.Abstractions.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Unity.Container.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\obj\Debug\ProjectFinal.csproj.CoreCompileInputs.cache
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\obj\Debug\ProjectFinal.csproj.CopyComplete
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\obj\Debug\ProjectFinal.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\obj\Debug\ProjectFinal.pdb
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Iesi.Collections.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\NHibernate.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Remotion.Linq.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Remotion.Linq.EagerFetching.dll
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Antlr3.Runtime.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Iesi.Collections.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\NHibernate.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Remotion.Linq.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\bin\Remotion.Linq.EagerFetching.xml
+D:\nghia\ASP.NET MVC\projectFinal\project_tt\obj\Debug\ProjectFinal.csprojAssemblyReference.cache

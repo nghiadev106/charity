@@ -1,0 +1,42 @@
+﻿@model ProjectFinal.Models.News
+@{
+    ViewBag.Title = "News";
+    ViewBag.SearchNews = "NewsSearch";
+}
+<div class="product-bg">
+    <div class="Clients_bg_white">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h1 style="font-weight: bold; font-size: 20px; margin-top: 20px;text-align:center;">@Model.Title</h1>
+                    <p style="text-align:center;margin-bottom: 20px;">Ngày đăng: @String.Format("{0:dd/MM/yyyy}", Model.CreateDate)</p>
+                    <div class="col-12" style="text-align:center;"><img src="@Model.Image" /></div>
+                    <br />
+                    <p style="text-align:center">@Html.Raw(Model.Description)</p>
+                    <p>
+                        @Html.Raw(Model.Detail)
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="yellow_bg">
+            <div class="row">
+                <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+                    <div class="yellow-box">
+                        <h3>Liên hệ với chúng tôi<i><img src="/Assets/icon/calll.png" /></i></h3>
+
+                        <p>Hotline hỗ trợ trực tuyến 24/7: 0987.654.321.</p>
+                    </div>
+                </div>
+                <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+                    <div class="yellow-box">
+                        <a href="#">Gọi ngay</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
